@@ -1,24 +1,21 @@
-This is free and unencumbered software released into the public domain.
+Copyright (c) 2024, Jakob Feldtkeller, Chair for Security Engineering, Ruhr-Universitaet Bochum
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+All rights reserved
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+This program is free software; You may use it or parts of it or modify it under the following terms:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+(1) Usage and/or redistribution and/or modification of the software or parts of the software is permitted for non-commercial use only.
 
-For more information, please refer to <https://unlicense.org>
+(2a) If this software or parts are used as part of a new software, you must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License will therefore apply, to the whole of the work, and all its parts, regardless of how they are packaged.
+
+(2b) You may expand this license by your own license. In this case this license still applies to the software as mentioned in (2a) and must not be changed. The expansion must be clearly recognizable as such. In any case of collision between the license and the expansion the license is superior to the expansion.
+
+(3) If this software or parts are used as part of a new software, you must provide equivalent access to the source code of the entire work, as a whole, to anyone who comes into possession of a copy, in the same way through the same place at no further charge, as for the binary version.
+
+(4) This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+
+(5) These notices must be retained in any copies of any part of this documentation and/or software.
+
+(6) If this software is used credit must be given to the "Chair for Security Engineering, Ruhr-Universitaet Bochum, Germany" as the authors of the parts of the software used. This can be in the form of a textual message at program startup or at *beginning* of the documentation (online or textual) provided with the package.
+
+Contact: `jakob.feldtkellern@rub.de`.
